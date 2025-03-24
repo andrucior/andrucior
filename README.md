@@ -1,6 +1,12 @@
 ## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="2%"/>
 Welcome to my GitHub! I've pinned some of my projects that I found interesting
 
+<!--
+### 🚀 About Me
+- 🔭 Currently working on **MagazinE** - the website for newspapers
+- 🌱 I am currently learning **Docker** and **AWS** 
+- 💬 Interested in bioinformatics and usage of computer science in medicine
+-->
 ### 🛠 Tools & Languages that I've been working with
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
