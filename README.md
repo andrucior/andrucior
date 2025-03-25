@@ -5,7 +5,7 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 ### 🚀 About Me
 - 🔭 Currently working on **MagazinE** - the website for newspapers
 - 🌱 I am currently learning **Docker** and **AWS** 
-- 💬 Interested in bioinformatics and usage of computer science in medicine
+- 💬 Interested in bioinformatics and the usage of computer science in medicine
 -->
 ### 🛠 Tools & Languages that I've been working with
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
@@ -25,6 +25,9 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior&layout=compact&langs_count=5&theme=dark)
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrzej-kupiec-05683323b/)
