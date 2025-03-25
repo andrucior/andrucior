@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="2%"/>
+## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="1em"/>
 Welcome to my GitHub! I've pinned some of my projects that I found interesting
 
 <!--
