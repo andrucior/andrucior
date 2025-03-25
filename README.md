@@ -26,9 +26,6 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior&layout=compact&langs_count=5&theme=dark)
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrzej-kupiec-05683323b/)
 <!--
