@@ -13,7 +13,7 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,js,r,matlab,flutter)](https://skillicons.dev)
 
 ### 🌐 Web & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,vue,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,tailwind)](https://skillicons.dev)
 
 ### ☁️ DevOps, Cloud & Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,git, )](https://skillicons.dev)
