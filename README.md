@@ -7,10 +7,18 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 - 🌱 I am currently learning Unreal Engine
 - 💬 Interested in bioinformatics and the usage of computer science in medicine
 -->
-### 🛠 Tools & Languages that I've been working with
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior&theme=radical)
+### 🛠 What I've been working with
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,python,opengl,git,react,clion,visualstudio,pycharm,r,javascript,docker,linux,matlab,html,css,postgres,grpc,aws)](https://skillicons.dev)
+### 🚀 Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,js,r,matlab,flutter)](https://skillicons.dev)
+
+### 🌐 Web & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,vue,html,css,tailwind)](https://skillicons.dev)
+
+### ☁️ DevOps, Cloud & Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,git, )](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior&theme=radical)
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrzej-kupiec-05683323b/)
