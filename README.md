@@ -8,6 +8,8 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 - 💬 Interested in bioinformatics and the usage of computer science in medicine
 -->
 ### 🛠 Tools & Languages that I've been working with
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior)
+
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
