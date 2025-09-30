@@ -3,12 +3,12 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 
 <!--
 ### 🚀 About Me
-- 🔭 Currently working on **MagazinE** - the website for newspapers
-- 🌱 I am currently learning **Docker** and **AWS** 
+- 🔭 Currently working on the LeetCode-style website for algorithms and data structures learning, still WIP  
+- 🌱 I am currently learning Unreal Engine
 - 💬 Interested in bioinformatics and the usage of computer science in medicine
 -->
 ### 🛠 Tools & Languages that I've been working with
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior&theme=radical)
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
