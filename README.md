@@ -20,6 +20,7 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 ### ☁️ DevOps, Cloud & Other tools
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,git, )](https://skillicons.dev)
 
+This graph looks fancy, but it is not entirely true as it counts only lines of code.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior&theme=radical)
 
 ### 📫 Connect with me:
