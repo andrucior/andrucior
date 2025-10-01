@@ -23,7 +23,7 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrzej-kupiec-05683323b/)
 
-[![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Andrzej_Kupiec_CV_Intern_Jr.pdf)
+[Andrzej_Kupiec_CV_Intern_Jr.pdf](https://github.com/user-attachments/files/22647059/Andrzej_Kupiec_CV_Intern_Jr.pdf)
 <!--
 **andrucior/andrucior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
