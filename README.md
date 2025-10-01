@@ -17,7 +17,7 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 ### 🌐 Web & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,tailwind)](https://skillicons.dev)
 
-### ☁️ DevOps, Cloud & Tools
+### ☁️ DevOps, Cloud & Other tools
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,git, )](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior&theme=radical)
