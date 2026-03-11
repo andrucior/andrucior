@@ -2,6 +2,7 @@
 Welcome to my GitHub! I've pinned some of my projects that I found interesting
 
 [In case you don't have it, here is my resume](https://github.com/user-attachments/files/22647059/Andrzej_Kupiec_CV_Intern_Jr.pdf)
+[Also, there you can grab my Bachelor's thesis (only in Polish)](https://github.com/user-attachments/files/25919543/Thesis.pdf)
 
 <!--
 ### 🚀 About Me
