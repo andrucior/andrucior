@@ -22,10 +22,7 @@ Welcome to my GitHub! I've pinned some of my projects that I found interesting
 ### ☁️ DevOps, Cloud & Other tools
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,git, )](https://skillicons.dev)
 
-This graph looks fancy, but it is not entirely true as it counts only lines of code.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrucior&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrucior&theme=gotham)](https://git.io/streak-stats)
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrzej-kupiec-05683323b/)
