@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="2%"/>
 Welcome to my GitHub! I've pinned some of my projects that I found interesting
 
-[Also, there you can grab my Bachelor's thesis (only in Polish)](https://github.com/user-attachments/files/25919543/Thesis.pdf)
+[There you can grab my Bachelor's thesis (only in Polish)](https://github.com/user-attachments/files/25919543/Thesis.pdf)
 
 <!--
 ### 🚀 About Me
